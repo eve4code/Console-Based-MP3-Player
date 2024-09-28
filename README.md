@@ -1,7 +1,7 @@
 # Console-Based MP3 Player
 
 This project is a Console-Based MP3 Player built in **C++** with playlist management, song queuing, and music playback features. It leverages **SFML** to handle audio playback and various data structures to manage playlists and song queues efficiently. Created by Luke Alkema, Jacob Atienza, Dylan Shouldice.
-
+- **A Standalone EXE File is currently in development**
 ## Features
 - **Play MP3 Files**: Play songs from your local directory.
 - **Playlist Management**: Create, add, remove songs from playlists.
