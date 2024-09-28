@@ -14,7 +14,7 @@ This project is a Console-Based MP3 Player built in **C++** with playlist manage
 - **Playlist Linked List**: A linked list structure to manage the songs within each playlist.
 
 ## Installation Instructions
-
+- **Requires Visual Studio 2022 with C/C++ Desktop Development environment installed:**
 ### Clone the Repository
 Clone the repository to your local machine by running:
 
