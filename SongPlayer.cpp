@@ -1,5 +1,5 @@
 #include "UserClass.h"
-
+//This code containes the logic to play .mp3 files
 bool playAudio(UserClass* user, string songName) 
 {
 	system("cls");
